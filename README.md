@@ -46,7 +46,7 @@ A **secure ASP.NET Core 9 Web API** demonstrating JWT authentication, role-based
 1. **Clone the repository**:  
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Lesego-1/User-Authentication-API.git
 cd AuthApi
 ````
 
