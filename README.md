@@ -194,15 +194,15 @@ Bearer <JWT_TOKEN>
 
 **Swagger Landing Page:**
 
-![Swagger UI Landing](./screenshots/swagger_landing.png)
+![Swagger UI Landing](https://github.com/Lesego-1/User-Authentication-API/blob/main/landing.png?raw=true)
 
 **Testing Login Endpoint:**
 
-![Login Endpoint](./screenshots/swagger_login.png)
+![Login Endpoint](https://github.com/Lesego-1/User-Authentication-API/blob/main/login.png?raw=true)
 
 **Testing Protected Endpoint (Users list):**
 
-![Users Endpoint](./screenshots/swagger_users.png)
+![Users Endpoint](https://github.com/Lesego-1/User-Authentication-API/blob/main/users.png?raw=true)
 
 ---
 
