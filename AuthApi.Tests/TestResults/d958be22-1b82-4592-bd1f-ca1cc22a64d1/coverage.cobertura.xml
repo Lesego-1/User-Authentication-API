@@ -1,0 +1,1656 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<coverage line-rate="0.3961" branch-rate="0.35710000000000003" version="1.9" timestamp="1771323494" lines-covered="225" lines-valid="568" branches-covered="10" branches-valid="28">
+  <sources>
+    <source>C:\Programming\Python\CS\User Authentication API\AuthApi\</source>
+  </sources>
+  <packages>
+    <package name="AuthApi" line-rate="0.3961" branch-rate="0.35710000000000003" complexity="77">
+      <classes>
+        <class name="Program" filename="Program.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="&lt;Main&gt;$" signature="(System.String[])" line-rate="1" branch-rate="1" complexity="2">
+              <lines>
+                <line number="10" hits="2" branch="False" />
+                <line number="13" hits="2" branch="False" />
+                <line number="14" hits="2" branch="False" />
+                <line number="15" hits="2" branch="False" />
+                <line number="18" hits="2" branch="False" />
+                <line number="19" hits="2" branch="False" />
+                <line number="20" hits="2" branch="False" />
+                <line number="21" hits="2" branch="False" />
+                <line number="22" hits="2" branch="False" />
+                <line number="23" hits="2" branch="False" />
+                <line number="24" hits="2" branch="False" />
+                <line number="25" hits="2" branch="False" />
+                <line number="26" hits="2" branch="False" />
+                <line number="27" hits="2" branch="False" />
+                <line number="28" hits="2" branch="False" />
+                <line number="29" hits="2" branch="False" />
+                <line number="30" hits="2" branch="False" />
+                <line number="31" hits="2" branch="False" />
+                <line number="32" hits="2" branch="False" />
+                <line number="33" hits="2" branch="False" />
+                <line number="34" hits="2" branch="False" />
+                <line number="35" hits="2" branch="False" />
+                <line number="36" hits="4" branch="False" />
+                <line number="39" hits="2" branch="False" />
+                <line number="40" hits="2" branch="False" />
+                <line number="41" hits="2" branch="False" />
+                <line number="42" hits="2" branch="False" />
+                <line number="43" hits="2" branch="False" />
+                <line number="44" hits="2" branch="False" />
+                <line number="45" hits="2" branch="False" />
+                <line number="46" hits="4" branch="False" />
+                <line number="47" hits="4" branch="False" />
+                <line number="50" hits="2" branch="False" />
+                <line number="53" hits="2" branch="False" />
+                <line number="54" hits="2" branch="False" />
+                <line number="55" hits="2" branch="False" />
+                <line number="56" hits="2" branch="False" />
+                <line number="57" hits="2" branch="False" />
+                <line number="58" hits="2" branch="False" />
+                <line number="59" hits="2" branch="False" />
+                <line number="60" hits="2" branch="False" />
+                <line number="61" hits="2" branch="False" />
+                <line number="62" hits="2" branch="False" />
+                <line number="63" hits="2" branch="False" />
+                <line number="64" hits="2" branch="False" />
+                <line number="65" hits="2" branch="False" />
+                <line number="66" hits="2" branch="False" />
+                <line number="67" hits="2" branch="False" />
+                <line number="68" hits="2" branch="False" />
+                <line number="69" hits="2" branch="False" />
+                <line number="70" hits="2" branch="False" />
+                <line number="71" hits="2" branch="False" />
+                <line number="72" hits="2" branch="False" />
+                <line number="73" hits="2" branch="False" />
+                <line number="74" hits="2" branch="False" />
+                <line number="75" hits="2" branch="False" />
+                <line number="76" hits="2" branch="False" />
+                <line number="77" hits="2" branch="False" />
+                <line number="78" hits="2" branch="False" />
+                <line number="79" hits="2" branch="False" />
+                <line number="80" hits="2" branch="False" />
+                <line number="81" hits="2" branch="False" />
+                <line number="82" hits="2" branch="False" />
+                <line number="83" hits="2" branch="False" />
+                <line number="84" hits="2" branch="False" />
+                <line number="85" hits="2" branch="False" />
+                <line number="86" hits="2" branch="False" />
+                <line number="87" hits="2" branch="False" />
+                <line number="88" hits="4" branch="False" />
+                <line number="91" hits="2" branch="False" />
+                <line number="92" hits="12" branch="False" />
+                <line number="95" hits="2" branch="False" />
+                <line number="96" hits="2" branch="False" />
+                <line number="97" hits="2" branch="False" />
+                <line number="98" hits="2" branch="False" />
+                <line number="100" hits="2" branch="False" />
+                <line number="103" hits="2" branch="False" />
+                <line number="104" hits="2" branch="False" />
+                <line number="105" hits="2" branch="False" />
+                <line number="106" hits="2" branch="False" />
+                <line number="107" hits="2" branch="False" />
+                <line number="110" hits="2" branch="True" condition-coverage="100% (2/2)">
+                  <conditions>
+                    <condition number="421" type="jump" coverage="100%" />
+                  </conditions>
+                </line>
+                <line number="111" hits="2" branch="False" />
+                <line number="112" hits="2" branch="False" />
+                <line number="113" hits="2" branch="False" />
+                <line number="114" hits="2" branch="False" />
+                <line number="117" hits="2" branch="False" />
+                <line number="119" hits="2" branch="False" />
+                <line number="120" hits="2" branch="False" />
+                <line number="122" hits="2" branch="False" />
+                <line number="124" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="10" hits="2" branch="False" />
+            <line number="13" hits="2" branch="False" />
+            <line number="14" hits="2" branch="False" />
+            <line number="15" hits="2" branch="False" />
+            <line number="18" hits="2" branch="False" />
+            <line number="19" hits="2" branch="False" />
+            <line number="20" hits="2" branch="False" />
+            <line number="21" hits="2" branch="False" />
+            <line number="22" hits="2" branch="False" />
+            <line number="23" hits="2" branch="False" />
+            <line number="24" hits="2" branch="False" />
+            <line number="25" hits="2" branch="False" />
+            <line number="26" hits="2" branch="False" />
+            <line number="27" hits="2" branch="False" />
+            <line number="28" hits="2" branch="False" />
+            <line number="29" hits="2" branch="False" />
+            <line number="30" hits="2" branch="False" />
+            <line number="31" hits="2" branch="False" />
+            <line number="32" hits="2" branch="False" />
+            <line number="33" hits="2" branch="False" />
+            <line number="34" hits="2" branch="False" />
+            <line number="35" hits="2" branch="False" />
+            <line number="36" hits="4" branch="False" />
+            <line number="39" hits="2" branch="False" />
+            <line number="40" hits="2" branch="False" />
+            <line number="41" hits="2" branch="False" />
+            <line number="42" hits="2" branch="False" />
+            <line number="43" hits="2" branch="False" />
+            <line number="44" hits="2" branch="False" />
+            <line number="45" hits="2" branch="False" />
+            <line number="46" hits="4" branch="False" />
+            <line number="47" hits="4" branch="False" />
+            <line number="50" hits="2" branch="False" />
+            <line number="53" hits="2" branch="False" />
+            <line number="54" hits="2" branch="False" />
+            <line number="55" hits="2" branch="False" />
+            <line number="56" hits="2" branch="False" />
+            <line number="57" hits="2" branch="False" />
+            <line number="58" hits="2" branch="False" />
+            <line number="59" hits="2" branch="False" />
+            <line number="60" hits="2" branch="False" />
+            <line number="61" hits="2" branch="False" />
+            <line number="62" hits="2" branch="False" />
+            <line number="63" hits="2" branch="False" />
+            <line number="64" hits="2" branch="False" />
+            <line number="65" hits="2" branch="False" />
+            <line number="66" hits="2" branch="False" />
+            <line number="67" hits="2" branch="False" />
+            <line number="68" hits="2" branch="False" />
+            <line number="69" hits="2" branch="False" />
+            <line number="70" hits="2" branch="False" />
+            <line number="71" hits="2" branch="False" />
+            <line number="72" hits="2" branch="False" />
+            <line number="73" hits="2" branch="False" />
+            <line number="74" hits="2" branch="False" />
+            <line number="75" hits="2" branch="False" />
+            <line number="76" hits="2" branch="False" />
+            <line number="77" hits="2" branch="False" />
+            <line number="78" hits="2" branch="False" />
+            <line number="79" hits="2" branch="False" />
+            <line number="80" hits="2" branch="False" />
+            <line number="81" hits="2" branch="False" />
+            <line number="82" hits="2" branch="False" />
+            <line number="83" hits="2" branch="False" />
+            <line number="84" hits="2" branch="False" />
+            <line number="85" hits="2" branch="False" />
+            <line number="86" hits="2" branch="False" />
+            <line number="87" hits="2" branch="False" />
+            <line number="88" hits="4" branch="False" />
+            <line number="91" hits="2" branch="False" />
+            <line number="92" hits="12" branch="False" />
+            <line number="95" hits="2" branch="False" />
+            <line number="96" hits="2" branch="False" />
+            <line number="97" hits="2" branch="False" />
+            <line number="98" hits="2" branch="False" />
+            <line number="100" hits="2" branch="False" />
+            <line number="103" hits="2" branch="False" />
+            <line number="104" hits="2" branch="False" />
+            <line number="105" hits="2" branch="False" />
+            <line number="106" hits="2" branch="False" />
+            <line number="107" hits="2" branch="False" />
+            <line number="110" hits="2" branch="True" condition-coverage="100% (2/2)">
+              <conditions>
+                <condition number="421" type="jump" coverage="100%" />
+              </conditions>
+            </line>
+            <line number="111" hits="2" branch="False" />
+            <line number="112" hits="2" branch="False" />
+            <line number="113" hits="2" branch="False" />
+            <line number="114" hits="2" branch="False" />
+            <line number="117" hits="2" branch="False" />
+            <line number="119" hits="2" branch="False" />
+            <line number="120" hits="2" branch="False" />
+            <line number="122" hits="2" branch="False" />
+            <line number="124" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Services.TokenService" filename="Services\TokenService.cs" line-rate="1" branch-rate="0.5" complexity="4">
+          <methods>
+            <method name="GenerateToken" signature="(AuthApi.Models.User)" line-rate="1" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="23" hits="4" branch="False" />
+                <line number="24" hits="4" branch="False" />
+                <line number="25" hits="4" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="30" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="26" hits="4" branch="False" />
+                <line number="27" hits="4" branch="False" />
+                <line number="28" hits="4" branch="False" />
+                <line number="30" hits="4" branch="False" />
+                <line number="31" hits="4" branch="False" />
+                <line number="32" hits="4" branch="False" />
+                <line number="33" hits="4" branch="False" />
+                <line number="34" hits="4" branch="False" />
+                <line number="36" hits="4" branch="False" />
+                <line number="37" hits="4" branch="False" />
+                <line number="39" hits="4" branch="False" />
+                <line number="40" hits="4" branch="False" />
+                <line number="41" hits="4" branch="False" />
+                <line number="42" hits="4" branch="False" />
+                <line number="43" hits="4" branch="False" />
+                <line number="44" hits="4" branch="False" />
+                <line number="45" hits="4" branch="False" />
+                <line number="47" hits="4" branch="False" />
+                <line number="48" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name="GenerateRefreshToken" signature="(AuthApi.Models.User)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="51" hits="4" branch="False" />
+                <line number="52" hits="4" branch="False" />
+                <line number="53" hits="4" branch="False" />
+                <line number="54" hits="4" branch="False" />
+                <line number="55" hits="4" branch="False" />
+                <line number="56" hits="4" branch="False" />
+                <line number="57" hits="4" branch="False" />
+                <line number="58" hits="4" branch="False" />
+                <line number="60" hits="4" branch="False" />
+                <line number="61" hits="4" branch="False" />
+                <line number="63" hits="4" branch="False" />
+                <line number="64" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Microsoft.Extensions.Configuration.IConfiguration,AuthApi.Data.AppDbContext)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="16" hits="8" branch="False" />
+                <line number="17" hits="8" branch="False" />
+                <line number="18" hits="8" branch="False" />
+                <line number="19" hits="8" branch="False" />
+                <line number="20" hits="8" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="23" hits="4" branch="False" />
+            <line number="24" hits="4" branch="False" />
+            <line number="25" hits="4" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="30" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="26" hits="4" branch="False" />
+            <line number="27" hits="4" branch="False" />
+            <line number="28" hits="4" branch="False" />
+            <line number="30" hits="4" branch="False" />
+            <line number="31" hits="4" branch="False" />
+            <line number="32" hits="4" branch="False" />
+            <line number="33" hits="4" branch="False" />
+            <line number="34" hits="4" branch="False" />
+            <line number="36" hits="4" branch="False" />
+            <line number="37" hits="4" branch="False" />
+            <line number="39" hits="4" branch="False" />
+            <line number="40" hits="4" branch="False" />
+            <line number="41" hits="4" branch="False" />
+            <line number="42" hits="4" branch="False" />
+            <line number="43" hits="4" branch="False" />
+            <line number="44" hits="4" branch="False" />
+            <line number="45" hits="4" branch="False" />
+            <line number="47" hits="4" branch="False" />
+            <line number="48" hits="4" branch="False" />
+            <line number="51" hits="4" branch="False" />
+            <line number="52" hits="4" branch="False" />
+            <line number="53" hits="4" branch="False" />
+            <line number="54" hits="4" branch="False" />
+            <line number="55" hits="4" branch="False" />
+            <line number="56" hits="4" branch="False" />
+            <line number="57" hits="4" branch="False" />
+            <line number="58" hits="4" branch="False" />
+            <line number="60" hits="4" branch="False" />
+            <line number="61" hits="4" branch="False" />
+            <line number="63" hits="4" branch="False" />
+            <line number="64" hits="4" branch="False" />
+            <line number="16" hits="8" branch="False" />
+            <line number="17" hits="8" branch="False" />
+            <line number="18" hits="8" branch="False" />
+            <line number="19" hits="8" branch="False" />
+            <line number="20" hits="8" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Services.UserService" filename="Services\UserService.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name=".ctor" signature="(AuthApi.Data.AppDbContext)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="12" branch="False" />
+                <line number="15" hits="12" branch="False" />
+                <line number="16" hits="12" branch="False" />
+                <line number="17" hits="12" branch="False" />
+                <line number="18" hits="12" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="14" hits="12" branch="False" />
+            <line number="15" hits="12" branch="False" />
+            <line number="16" hits="12" branch="False" />
+            <line number="17" hits="12" branch="False" />
+            <line number="18" hits="12" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Services.UserService/&lt;AuthenticateAsync&gt;d__5" filename="Services\UserService.cs" line-rate="0.8" branch-rate="0.5" complexity="4">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0.8" branch-rate="0.5" complexity="4">
+              <lines>
+                <line number="44" hits="6" branch="False" />
+                <line number="45" hits="6" branch="False" />
+                <line number="46" hits="6" branch="False" />
+                <line number="48" hits="6" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="323" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="49" hits="0" branch="False" />
+                <line number="51" hits="6" branch="False" />
+                <line number="53" hits="4" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="397" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="54" hits="0" branch="False" />
+                <line number="56" hits="4" branch="False" />
+                <line number="57" hits="4" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="44" hits="6" branch="False" />
+            <line number="45" hits="6" branch="False" />
+            <line number="46" hits="6" branch="False" />
+            <line number="48" hits="6" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="323" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="49" hits="0" branch="False" />
+            <line number="51" hits="6" branch="False" />
+            <line number="53" hits="4" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="397" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="54" hits="0" branch="False" />
+            <line number="56" hits="4" branch="False" />
+            <line number="57" hits="4" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Services.UserService/&lt;GetAllUsersAsync&gt;d__6" filename="Services\UserService.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="61" hits="0" branch="False" />
+                <line number="62" hits="0" branch="False" />
+                <line number="63" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="61" hits="0" branch="False" />
+            <line number="62" hits="0" branch="False" />
+            <line number="63" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Services.UserService/&lt;GetUserByUsernameAsync&gt;d__7" filename="Services\UserService.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="65" hits="0" branch="False" />
+                <line number="66" hits="0" branch="False" />
+                <line number="67" hits="0" branch="False" />
+                <line number="68" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="65" hits="0" branch="False" />
+            <line number="66" hits="0" branch="False" />
+            <line number="67" hits="0" branch="False" />
+            <line number="68" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Services.UserService/&lt;RegisterAsync&gt;d__3" filename="Services\UserService.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="21" hits="5" branch="False" />
+                <line number="22" hits="5" branch="False" />
+                <line number="23" hits="5" branch="False" />
+                <line number="24" hits="5" branch="False" />
+                <line number="25" hits="5" branch="False" />
+                <line number="26" hits="5" branch="False" />
+                <line number="27" hits="5" branch="False" />
+                <line number="29" hits="5" branch="False" />
+                <line number="31" hits="5" branch="False" />
+                <line number="32" hits="5" branch="False" />
+                <line number="34" hits="5" branch="False" />
+                <line number="35" hits="5" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="21" hits="5" branch="False" />
+            <line number="22" hits="5" branch="False" />
+            <line number="23" hits="5" branch="False" />
+            <line number="24" hits="5" branch="False" />
+            <line number="25" hits="5" branch="False" />
+            <line number="26" hits="5" branch="False" />
+            <line number="27" hits="5" branch="False" />
+            <line number="29" hits="5" branch="False" />
+            <line number="31" hits="5" branch="False" />
+            <line number="32" hits="5" branch="False" />
+            <line number="34" hits="5" branch="False" />
+            <line number="35" hits="5" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Services.UserService/&lt;UserExistsAsync&gt;d__4" filename="Services\UserService.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="38" hits="5" branch="False" />
+                <line number="39" hits="5" branch="False" />
+                <line number="40" hits="5" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="38" hits="5" branch="False" />
+            <line number="39" hits="5" branch="False" />
+            <line number="40" hits="5" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Models.RefreshToken" filename="Models\RefreshToken.cs" line-rate="0.7142000000000001" branch-rate="1" complexity="7">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Token" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="12" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Expires" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Created" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="10" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name="get_IsExpired" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="get_UserId" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name="get_User" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="4" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="7" hits="0" branch="False" />
+            <line number="8" hits="12" branch="False" />
+            <line number="9" hits="4" branch="False" />
+            <line number="10" hits="4" branch="False" />
+            <line number="11" hits="0" branch="False" />
+            <line number="14" hits="4" branch="False" />
+            <line number="15" hits="4" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Models.User" filename="Models\User.cs" line-rate="0.75" branch-rate="1" complexity="8">
+          <methods>
+            <method name="get_Id" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="4" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Username" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="40" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Email" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="28" branch="False" />
+              </lines>
+            </method>
+            <method name="get_PasswordHash" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="25" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Role" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="32" branch="False" />
+              </lines>
+            </method>
+            <method name="get_RefreshToken" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="15" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="get_RefreshTokenExpiry" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="get_RefreshTokens" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="19" hits="12" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="4" branch="False" />
+            <line number="7" hits="40" branch="False" />
+            <line number="9" hits="28" branch="False" />
+            <line number="11" hits="25" branch="False" />
+            <line number="13" hits="32" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="19" hits="12" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Migrations.InitialCreate" filename="Migrations\20251128145948_InitialCreate.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Up" signature="(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="17" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="21" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+                <line number="25" hits="0" branch="False" />
+                <line number="26" hits="0" branch="False" />
+                <line number="27" hits="0" branch="False" />
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="Down" signature="(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="35" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+                <line number="37" hits="0" branch="False" />
+                <line number="38" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+            <line number="25" hits="0" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="27" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+            <line number="37" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Migrations.InitialCreate" filename="Migrations\20251128145948_InitialCreate.Designer.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="BuildTargetModel" signature="(Microsoft.EntityFrameworkCore.ModelBuilder)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+                <line number="26" hits="0" branch="False" />
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+                <line number="34" hits="0" branch="False" />
+                <line number="35" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+                <line number="37" hits="0" branch="False" />
+                <line number="38" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+                <line number="40" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+                <line number="42" hits="0" branch="False" />
+                <line number="43" hits="0" branch="False" />
+                <line number="44" hits="0" branch="False" />
+                <line number="45" hits="0" branch="False" />
+                <line number="46" hits="0" branch="False" />
+                <line number="47" hits="0" branch="False" />
+                <line number="48" hits="0" branch="False" />
+                <line number="49" hits="0" branch="False" />
+                <line number="50" hits="0" branch="False" />
+                <line number="51" hits="0" branch="False" />
+                <line number="52" hits="0" branch="False" />
+                <line number="53" hits="0" branch="False" />
+                <line number="54" hits="0" branch="False" />
+                <line number="55" hits="0" branch="False" />
+                <line number="56" hits="0" branch="False" />
+                <line number="57" hits="0" branch="False" />
+                <line number="58" hits="0" branch="False" />
+                <line number="59" hits="0" branch="False" />
+                <line number="60" hits="0" branch="False" />
+                <line number="61" hits="0" branch="False" />
+                <line number="63" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="20" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="34" hits="0" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+            <line number="37" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+            <line number="42" hits="0" branch="False" />
+            <line number="43" hits="0" branch="False" />
+            <line number="44" hits="0" branch="False" />
+            <line number="45" hits="0" branch="False" />
+            <line number="46" hits="0" branch="False" />
+            <line number="47" hits="0" branch="False" />
+            <line number="48" hits="0" branch="False" />
+            <line number="49" hits="0" branch="False" />
+            <line number="50" hits="0" branch="False" />
+            <line number="51" hits="0" branch="False" />
+            <line number="52" hits="0" branch="False" />
+            <line number="53" hits="0" branch="False" />
+            <line number="54" hits="0" branch="False" />
+            <line number="55" hits="0" branch="False" />
+            <line number="56" hits="0" branch="False" />
+            <line number="57" hits="0" branch="False" />
+            <line number="58" hits="0" branch="False" />
+            <line number="59" hits="0" branch="False" />
+            <line number="60" hits="0" branch="False" />
+            <line number="61" hits="0" branch="False" />
+            <line number="63" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Migrations.AddRefreshToken" filename="Migrations\20251128160714_AddRefreshToken.cs" line-rate="0" branch-rate="1" complexity="2">
+          <methods>
+            <method name="Up" signature="(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="17" hits="0" branch="False" />
+                <line number="18" hits="0" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="21" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+                <line number="25" hits="0" branch="False" />
+                <line number="26" hits="0" branch="False" />
+                <line number="27" hits="0" branch="False" />
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+                <line number="34" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+                <line number="37" hits="0" branch="False" />
+                <line number="38" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+                <line number="40" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="Down" signature="(Microsoft.EntityFrameworkCore.Migrations.MigrationBuilder)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="44" hits="0" branch="False" />
+                <line number="45" hits="0" branch="False" />
+                <line number="46" hits="0" branch="False" />
+                <line number="47" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="18" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+            <line number="25" hits="0" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="27" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="34" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+            <line number="37" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+            <line number="44" hits="0" branch="False" />
+            <line number="45" hits="0" branch="False" />
+            <line number="46" hits="0" branch="False" />
+            <line number="47" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Migrations.AddRefreshToken" filename="Migrations\20251128160714_AddRefreshToken.Designer.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="BuildTargetModel" signature="(Microsoft.EntityFrameworkCore.ModelBuilder)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="20" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+                <line number="26" hits="0" branch="False" />
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+                <line number="34" hits="0" branch="False" />
+                <line number="35" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+                <line number="37" hits="0" branch="False" />
+                <line number="38" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+                <line number="40" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+                <line number="42" hits="0" branch="False" />
+                <line number="43" hits="0" branch="False" />
+                <line number="44" hits="0" branch="False" />
+                <line number="45" hits="0" branch="False" />
+                <line number="46" hits="0" branch="False" />
+                <line number="47" hits="0" branch="False" />
+                <line number="48" hits="0" branch="False" />
+                <line number="49" hits="0" branch="False" />
+                <line number="50" hits="0" branch="False" />
+                <line number="51" hits="0" branch="False" />
+                <line number="52" hits="0" branch="False" />
+                <line number="53" hits="0" branch="False" />
+                <line number="54" hits="0" branch="False" />
+                <line number="56" hits="0" branch="False" />
+                <line number="57" hits="0" branch="False" />
+                <line number="58" hits="0" branch="False" />
+                <line number="59" hits="0" branch="False" />
+                <line number="60" hits="0" branch="False" />
+                <line number="61" hits="0" branch="False" />
+                <line number="62" hits="0" branch="False" />
+                <line number="63" hits="0" branch="False" />
+                <line number="64" hits="0" branch="False" />
+                <line number="65" hits="0" branch="False" />
+                <line number="66" hits="0" branch="False" />
+                <line number="67" hits="0" branch="False" />
+                <line number="68" hits="0" branch="False" />
+                <line number="69" hits="0" branch="False" />
+                <line number="70" hits="0" branch="False" />
+                <line number="71" hits="0" branch="False" />
+                <line number="72" hits="0" branch="False" />
+                <line number="73" hits="0" branch="False" />
+                <line number="74" hits="0" branch="False" />
+                <line number="75" hits="0" branch="False" />
+                <line number="76" hits="0" branch="False" />
+                <line number="77" hits="0" branch="False" />
+                <line number="78" hits="0" branch="False" />
+                <line number="79" hits="0" branch="False" />
+                <line number="80" hits="0" branch="False" />
+                <line number="81" hits="0" branch="False" />
+                <line number="82" hits="0" branch="False" />
+                <line number="83" hits="0" branch="False" />
+                <line number="84" hits="0" branch="False" />
+                <line number="85" hits="0" branch="False" />
+                <line number="86" hits="0" branch="False" />
+                <line number="87" hits="0" branch="False" />
+                <line number="88" hits="0" branch="False" />
+                <line number="89" hits="0" branch="False" />
+                <line number="91" hits="0" branch="False" />
+                <line number="92" hits="0" branch="False" />
+                <line number="93" hits="0" branch="False" />
+                <line number="94" hits="0" branch="False" />
+                <line number="95" hits="0" branch="False" />
+                <line number="96" hits="0" branch="False" />
+                <line number="97" hits="0" branch="False" />
+                <line number="98" hits="0" branch="False" />
+                <line number="99" hits="0" branch="False" />
+                <line number="100" hits="0" branch="False" />
+                <line number="102" hits="0" branch="False" />
+                <line number="103" hits="0" branch="False" />
+                <line number="104" hits="0" branch="False" />
+                <line number="105" hits="0" branch="False" />
+                <line number="107" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="20" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="34" hits="0" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+            <line number="37" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+            <line number="42" hits="0" branch="False" />
+            <line number="43" hits="0" branch="False" />
+            <line number="44" hits="0" branch="False" />
+            <line number="45" hits="0" branch="False" />
+            <line number="46" hits="0" branch="False" />
+            <line number="47" hits="0" branch="False" />
+            <line number="48" hits="0" branch="False" />
+            <line number="49" hits="0" branch="False" />
+            <line number="50" hits="0" branch="False" />
+            <line number="51" hits="0" branch="False" />
+            <line number="52" hits="0" branch="False" />
+            <line number="53" hits="0" branch="False" />
+            <line number="54" hits="0" branch="False" />
+            <line number="56" hits="0" branch="False" />
+            <line number="57" hits="0" branch="False" />
+            <line number="58" hits="0" branch="False" />
+            <line number="59" hits="0" branch="False" />
+            <line number="60" hits="0" branch="False" />
+            <line number="61" hits="0" branch="False" />
+            <line number="62" hits="0" branch="False" />
+            <line number="63" hits="0" branch="False" />
+            <line number="64" hits="0" branch="False" />
+            <line number="65" hits="0" branch="False" />
+            <line number="66" hits="0" branch="False" />
+            <line number="67" hits="0" branch="False" />
+            <line number="68" hits="0" branch="False" />
+            <line number="69" hits="0" branch="False" />
+            <line number="70" hits="0" branch="False" />
+            <line number="71" hits="0" branch="False" />
+            <line number="72" hits="0" branch="False" />
+            <line number="73" hits="0" branch="False" />
+            <line number="74" hits="0" branch="False" />
+            <line number="75" hits="0" branch="False" />
+            <line number="76" hits="0" branch="False" />
+            <line number="77" hits="0" branch="False" />
+            <line number="78" hits="0" branch="False" />
+            <line number="79" hits="0" branch="False" />
+            <line number="80" hits="0" branch="False" />
+            <line number="81" hits="0" branch="False" />
+            <line number="82" hits="0" branch="False" />
+            <line number="83" hits="0" branch="False" />
+            <line number="84" hits="0" branch="False" />
+            <line number="85" hits="0" branch="False" />
+            <line number="86" hits="0" branch="False" />
+            <line number="87" hits="0" branch="False" />
+            <line number="88" hits="0" branch="False" />
+            <line number="89" hits="0" branch="False" />
+            <line number="91" hits="0" branch="False" />
+            <line number="92" hits="0" branch="False" />
+            <line number="93" hits="0" branch="False" />
+            <line number="94" hits="0" branch="False" />
+            <line number="95" hits="0" branch="False" />
+            <line number="96" hits="0" branch="False" />
+            <line number="97" hits="0" branch="False" />
+            <line number="98" hits="0" branch="False" />
+            <line number="99" hits="0" branch="False" />
+            <line number="100" hits="0" branch="False" />
+            <line number="102" hits="0" branch="False" />
+            <line number="103" hits="0" branch="False" />
+            <line number="104" hits="0" branch="False" />
+            <line number="105" hits="0" branch="False" />
+            <line number="107" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Migrations.AppDbContextModelSnapshot" filename="Migrations\AppDbContextModelSnapshot.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="BuildModel" signature="(Microsoft.EntityFrameworkCore.ModelBuilder)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="0" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="21" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+                <line number="25" hits="0" branch="False" />
+                <line number="26" hits="0" branch="False" />
+                <line number="27" hits="0" branch="False" />
+                <line number="28" hits="0" branch="False" />
+                <line number="29" hits="0" branch="False" />
+                <line number="30" hits="0" branch="False" />
+                <line number="31" hits="0" branch="False" />
+                <line number="32" hits="0" branch="False" />
+                <line number="33" hits="0" branch="False" />
+                <line number="34" hits="0" branch="False" />
+                <line number="35" hits="0" branch="False" />
+                <line number="36" hits="0" branch="False" />
+                <line number="37" hits="0" branch="False" />
+                <line number="38" hits="0" branch="False" />
+                <line number="39" hits="0" branch="False" />
+                <line number="40" hits="0" branch="False" />
+                <line number="41" hits="0" branch="False" />
+                <line number="42" hits="0" branch="False" />
+                <line number="43" hits="0" branch="False" />
+                <line number="44" hits="0" branch="False" />
+                <line number="45" hits="0" branch="False" />
+                <line number="46" hits="0" branch="False" />
+                <line number="47" hits="0" branch="False" />
+                <line number="48" hits="0" branch="False" />
+                <line number="49" hits="0" branch="False" />
+                <line number="50" hits="0" branch="False" />
+                <line number="51" hits="0" branch="False" />
+                <line number="53" hits="0" branch="False" />
+                <line number="54" hits="0" branch="False" />
+                <line number="55" hits="0" branch="False" />
+                <line number="56" hits="0" branch="False" />
+                <line number="57" hits="0" branch="False" />
+                <line number="58" hits="0" branch="False" />
+                <line number="59" hits="0" branch="False" />
+                <line number="60" hits="0" branch="False" />
+                <line number="61" hits="0" branch="False" />
+                <line number="62" hits="0" branch="False" />
+                <line number="63" hits="0" branch="False" />
+                <line number="64" hits="0" branch="False" />
+                <line number="65" hits="0" branch="False" />
+                <line number="66" hits="0" branch="False" />
+                <line number="67" hits="0" branch="False" />
+                <line number="68" hits="0" branch="False" />
+                <line number="69" hits="0" branch="False" />
+                <line number="70" hits="0" branch="False" />
+                <line number="71" hits="0" branch="False" />
+                <line number="72" hits="0" branch="False" />
+                <line number="73" hits="0" branch="False" />
+                <line number="74" hits="0" branch="False" />
+                <line number="75" hits="0" branch="False" />
+                <line number="76" hits="0" branch="False" />
+                <line number="77" hits="0" branch="False" />
+                <line number="78" hits="0" branch="False" />
+                <line number="79" hits="0" branch="False" />
+                <line number="80" hits="0" branch="False" />
+                <line number="81" hits="0" branch="False" />
+                <line number="82" hits="0" branch="False" />
+                <line number="83" hits="0" branch="False" />
+                <line number="84" hits="0" branch="False" />
+                <line number="85" hits="0" branch="False" />
+                <line number="86" hits="0" branch="False" />
+                <line number="88" hits="0" branch="False" />
+                <line number="89" hits="0" branch="False" />
+                <line number="90" hits="0" branch="False" />
+                <line number="91" hits="0" branch="False" />
+                <line number="92" hits="0" branch="False" />
+                <line number="93" hits="0" branch="False" />
+                <line number="94" hits="0" branch="False" />
+                <line number="95" hits="0" branch="False" />
+                <line number="96" hits="0" branch="False" />
+                <line number="97" hits="0" branch="False" />
+                <line number="99" hits="0" branch="False" />
+                <line number="100" hits="0" branch="False" />
+                <line number="101" hits="0" branch="False" />
+                <line number="102" hits="0" branch="False" />
+                <line number="104" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="17" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="21" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="25" hits="0" branch="False" />
+            <line number="26" hits="0" branch="False" />
+            <line number="27" hits="0" branch="False" />
+            <line number="28" hits="0" branch="False" />
+            <line number="29" hits="0" branch="False" />
+            <line number="30" hits="0" branch="False" />
+            <line number="31" hits="0" branch="False" />
+            <line number="32" hits="0" branch="False" />
+            <line number="33" hits="0" branch="False" />
+            <line number="34" hits="0" branch="False" />
+            <line number="35" hits="0" branch="False" />
+            <line number="36" hits="0" branch="False" />
+            <line number="37" hits="0" branch="False" />
+            <line number="38" hits="0" branch="False" />
+            <line number="39" hits="0" branch="False" />
+            <line number="40" hits="0" branch="False" />
+            <line number="41" hits="0" branch="False" />
+            <line number="42" hits="0" branch="False" />
+            <line number="43" hits="0" branch="False" />
+            <line number="44" hits="0" branch="False" />
+            <line number="45" hits="0" branch="False" />
+            <line number="46" hits="0" branch="False" />
+            <line number="47" hits="0" branch="False" />
+            <line number="48" hits="0" branch="False" />
+            <line number="49" hits="0" branch="False" />
+            <line number="50" hits="0" branch="False" />
+            <line number="51" hits="0" branch="False" />
+            <line number="53" hits="0" branch="False" />
+            <line number="54" hits="0" branch="False" />
+            <line number="55" hits="0" branch="False" />
+            <line number="56" hits="0" branch="False" />
+            <line number="57" hits="0" branch="False" />
+            <line number="58" hits="0" branch="False" />
+            <line number="59" hits="0" branch="False" />
+            <line number="60" hits="0" branch="False" />
+            <line number="61" hits="0" branch="False" />
+            <line number="62" hits="0" branch="False" />
+            <line number="63" hits="0" branch="False" />
+            <line number="64" hits="0" branch="False" />
+            <line number="65" hits="0" branch="False" />
+            <line number="66" hits="0" branch="False" />
+            <line number="67" hits="0" branch="False" />
+            <line number="68" hits="0" branch="False" />
+            <line number="69" hits="0" branch="False" />
+            <line number="70" hits="0" branch="False" />
+            <line number="71" hits="0" branch="False" />
+            <line number="72" hits="0" branch="False" />
+            <line number="73" hits="0" branch="False" />
+            <line number="74" hits="0" branch="False" />
+            <line number="75" hits="0" branch="False" />
+            <line number="76" hits="0" branch="False" />
+            <line number="77" hits="0" branch="False" />
+            <line number="78" hits="0" branch="False" />
+            <line number="79" hits="0" branch="False" />
+            <line number="80" hits="0" branch="False" />
+            <line number="81" hits="0" branch="False" />
+            <line number="82" hits="0" branch="False" />
+            <line number="83" hits="0" branch="False" />
+            <line number="84" hits="0" branch="False" />
+            <line number="85" hits="0" branch="False" />
+            <line number="86" hits="0" branch="False" />
+            <line number="88" hits="0" branch="False" />
+            <line number="89" hits="0" branch="False" />
+            <line number="90" hits="0" branch="False" />
+            <line number="91" hits="0" branch="False" />
+            <line number="92" hits="0" branch="False" />
+            <line number="93" hits="0" branch="False" />
+            <line number="94" hits="0" branch="False" />
+            <line number="95" hits="0" branch="False" />
+            <line number="96" hits="0" branch="False" />
+            <line number="97" hits="0" branch="False" />
+            <line number="99" hits="0" branch="False" />
+            <line number="100" hits="0" branch="False" />
+            <line number="101" hits="0" branch="False" />
+            <line number="102" hits="0" branch="False" />
+            <line number="104" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.DTOs.AuthResponse" filename="DTOs\AuthResponse.cs" line-rate="0" branch-rate="1" complexity="4">
+          <methods>
+            <method name="get_Username" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Email" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Role" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="0" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Token" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="0" branch="False" />
+            <line number="6" hits="0" branch="False" />
+            <line number="7" hits="0" branch="False" />
+            <line number="8" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.DTOs.LoginRequest" filename="DTOs\LoginRequest.cs" line-rate="1" branch-rate="1" complexity="2">
+          <methods>
+            <method name="get_Username" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="34" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Password" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="11" hits="34" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="34" branch="False" />
+            <line number="11" hits="34" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.DTOs.RefreshRequest" filename="DTOs\RefreshRequest.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="get_RefreshToken" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="8" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.DTOs.RegisterRequest" filename="DTOs\RegisterRequest.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_Username" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="35" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Email" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="35" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Password" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="17" hits="31" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="35" branch="False" />
+            <line number="13" hits="35" branch="False" />
+            <line number="17" hits="31" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Data.AppDbContext" filename="Data\AppDbContext.cs" line-rate="1" branch-rate="1" complexity="3">
+          <methods>
+            <method name="get_Users" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="13" hits="38" branch="False" />
+              </lines>
+            </method>
+            <method name="get_RefreshTokens" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="14" hits="18" branch="False" />
+              </lines>
+            </method>
+            <method name=".ctor" signature="(Microsoft.EntityFrameworkCore.DbContextOptions`1&lt;AuthApi.Data.AppDbContext&gt;)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="9" hits="14" branch="False" />
+                <line number="10" hits="14" branch="False" />
+                <line number="11" hits="14" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="13" hits="38" branch="False" />
+            <line number="14" hits="18" branch="False" />
+            <line number="9" hits="14" branch="False" />
+            <line number="10" hits="14" branch="False" />
+            <line number="11" hits="14" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Data.DataSeeder" filename="Data\DataSeeder.cs" line-rate="0.2" branch-rate="0.5" complexity="2">
+          <methods>
+            <method name="SeedAdmin" signature="(AuthApi.Data.AppDbContext)" line-rate="0.2" branch-rate="0.5" complexity="2">
+              <lines>
+                <line number="9" hits="2" branch="False" />
+                <line number="10" hits="2" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="99" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="11" hits="0" branch="False" />
+                <line number="12" hits="0" branch="False" />
+                <line number="13" hits="0" branch="False" />
+                <line number="14" hits="0" branch="False" />
+                <line number="15" hits="0" branch="False" />
+                <line number="16" hits="0" branch="False" />
+                <line number="17" hits="0" branch="False" />
+                <line number="19" hits="0" branch="False" />
+                <line number="20" hits="0" branch="False" />
+                <line number="22" hits="0" branch="False" />
+                <line number="23" hits="0" branch="False" />
+                <line number="24" hits="0" branch="False" />
+                <line number="25" hits="2" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="9" hits="2" branch="False" />
+            <line number="10" hits="2" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="99" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="11" hits="0" branch="False" />
+            <line number="12" hits="0" branch="False" />
+            <line number="13" hits="0" branch="False" />
+            <line number="14" hits="0" branch="False" />
+            <line number="15" hits="0" branch="False" />
+            <line number="16" hits="0" branch="False" />
+            <line number="17" hits="0" branch="False" />
+            <line number="19" hits="0" branch="False" />
+            <line number="20" hits="0" branch="False" />
+            <line number="22" hits="0" branch="False" />
+            <line number="23" hits="0" branch="False" />
+            <line number="24" hits="0" branch="False" />
+            <line number="25" hits="2" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Controllers.AuthController" filename="Controllers\AuthController.cs" line-rate="1" branch-rate="1" complexity="1">
+          <methods>
+            <method name=".ctor" signature="(AuthApi.Services.IUserService,ITokenService,AuthApi.Data.AppDbContext,Microsoft.Extensions.Logging.ILogger`1&lt;AuthApi.Controllers.AuthController&gt;)" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="23" hits="8" branch="False" />
+                <line number="24" hits="8" branch="False" />
+                <line number="25" hits="8" branch="False" />
+                <line number="26" hits="8" branch="False" />
+                <line number="27" hits="8" branch="False" />
+                <line number="28" hits="8" branch="False" />
+                <line number="29" hits="8" branch="False" />
+                <line number="30" hits="8" branch="False" />
+                <line number="31" hits="8" branch="False" />
+                <line number="32" hits="8" branch="False" />
+                <line number="33" hits="8" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="23" hits="8" branch="False" />
+            <line number="24" hits="8" branch="False" />
+            <line number="25" hits="8" branch="False" />
+            <line number="26" hits="8" branch="False" />
+            <line number="27" hits="8" branch="False" />
+            <line number="28" hits="8" branch="False" />
+            <line number="29" hits="8" branch="False" />
+            <line number="30" hits="8" branch="False" />
+            <line number="31" hits="8" branch="False" />
+            <line number="32" hits="8" branch="False" />
+            <line number="33" hits="8" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Controllers.AuthController/&lt;&gt;c" filename="Controllers\AuthController.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="&lt;GetAllUsers&gt;b__7_0" signature="(AuthApi.Models.User)" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="98" hits="0" branch="False" />
+                <line number="99" hits="0" branch="False" />
+                <line number="100" hits="0" branch="False" />
+                <line number="101" hits="0" branch="False" />
+                <line number="102" hits="0" branch="False" />
+                <line number="103" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="98" hits="0" branch="False" />
+            <line number="99" hits="0" branch="False" />
+            <line number="100" hits="0" branch="False" />
+            <line number="101" hits="0" branch="False" />
+            <line number="102" hits="0" branch="False" />
+            <line number="103" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Controllers.AuthController/&lt;GetAllUsers&gt;d__7" filename="Controllers\AuthController.cs" line-rate="0" branch-rate="1" complexity="1">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="1" complexity="1">
+              <lines>
+                <line number="92" hits="0" branch="False" />
+                <line number="93" hits="0" branch="False" />
+                <line number="95" hits="0" branch="False" />
+                <line number="96" hits="0" branch="False" />
+                <line number="104" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="92" hits="0" branch="False" />
+            <line number="93" hits="0" branch="False" />
+            <line number="95" hits="0" branch="False" />
+            <line number="96" hits="0" branch="False" />
+            <line number="104" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Controllers.AuthController/&lt;GetProfile&gt;d__8" filename="Controllers\AuthController.cs" line-rate="0" branch-rate="0" complexity="4">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="4">
+              <lines>
+                <line number="109" hits="0" branch="False" />
+                <line number="110" hits="0" branch="False" />
+                <line number="112" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="56" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="113" hits="0" branch="False" />
+                <line number="115" hits="0" branch="False" />
+                <line number="116" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="230" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="117" hits="0" branch="False" />
+                <line number="119" hits="0" branch="False" />
+                <line number="121" hits="0" branch="False" />
+                <line number="122" hits="0" branch="False" />
+                <line number="123" hits="0" branch="False" />
+                <line number="124" hits="0" branch="False" />
+                <line number="125" hits="0" branch="False" />
+                <line number="126" hits="0" branch="False" />
+                <line number="127" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="109" hits="0" branch="False" />
+            <line number="110" hits="0" branch="False" />
+            <line number="112" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="56" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="113" hits="0" branch="False" />
+            <line number="115" hits="0" branch="False" />
+            <line number="116" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="230" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="117" hits="0" branch="False" />
+            <line number="119" hits="0" branch="False" />
+            <line number="121" hits="0" branch="False" />
+            <line number="122" hits="0" branch="False" />
+            <line number="123" hits="0" branch="False" />
+            <line number="124" hits="0" branch="False" />
+            <line number="125" hits="0" branch="False" />
+            <line number="126" hits="0" branch="False" />
+            <line number="127" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Controllers.AuthController/&lt;Login&gt;d__6" filename="Controllers\AuthController.cs" line-rate="0.8" branch-rate="0.5" complexity="4">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0.8" branch-rate="0.5" complexity="4">
+              <lines>
+                <line number="62" hits="4" branch="False" />
+                <line number="63" hits="4" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="39" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="64" hits="0" branch="False" />
+                <line number="66" hits="4" branch="False" />
+                <line number="68" hits="4" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="219" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="69" hits="0" branch="False" />
+                <line number="70" hits="0" branch="False" />
+                <line number="71" hits="0" branch="False" />
+                <line number="74" hits="4" branch="False" />
+                <line number="75" hits="4" branch="False" />
+                <line number="77" hits="4" branch="False" />
+                <line number="79" hits="4" branch="False" />
+                <line number="80" hits="4" branch="False" />
+                <line number="81" hits="4" branch="False" />
+                <line number="82" hits="4" branch="False" />
+                <line number="83" hits="4" branch="False" />
+                <line number="84" hits="4" branch="False" />
+                <line number="85" hits="4" branch="False" />
+                <line number="86" hits="4" branch="False" />
+                <line number="87" hits="4" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="62" hits="4" branch="False" />
+            <line number="63" hits="4" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="39" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="64" hits="0" branch="False" />
+            <line number="66" hits="4" branch="False" />
+            <line number="68" hits="4" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="219" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="69" hits="0" branch="False" />
+            <line number="70" hits="0" branch="False" />
+            <line number="71" hits="0" branch="False" />
+            <line number="74" hits="4" branch="False" />
+            <line number="75" hits="4" branch="False" />
+            <line number="77" hits="4" branch="False" />
+            <line number="79" hits="4" branch="False" />
+            <line number="80" hits="4" branch="False" />
+            <line number="81" hits="4" branch="False" />
+            <line number="82" hits="4" branch="False" />
+            <line number="83" hits="4" branch="False" />
+            <line number="84" hits="4" branch="False" />
+            <line number="85" hits="4" branch="False" />
+            <line number="86" hits="4" branch="False" />
+            <line number="87" hits="4" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Controllers.AuthController/&lt;Refresh&gt;d__9" filename="Controllers\AuthController.cs" line-rate="0" branch-rate="0" complexity="6">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0" branch-rate="0" complexity="6">
+              <lines>
+                <line number="131" hits="0" branch="False" />
+                <line number="132" hits="0" branch="True" condition-coverage="0% (0/2)">
+                  <conditions>
+                    <condition number="78" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="133" hits="0" branch="False" />
+                <line number="135" hits="0" branch="False" />
+                <line number="136" hits="0" branch="False" />
+                <line number="137" hits="0" branch="False" />
+                <line number="139" hits="0" branch="True" condition-coverage="0% (0/4)">
+                  <conditions>
+                    <condition number="446" type="jump" coverage="0%" />
+                    <condition number="466" type="jump" coverage="0%" />
+                  </conditions>
+                </line>
+                <line number="140" hits="0" branch="False" />
+                <line number="141" hits="0" branch="False" />
+                <line number="142" hits="0" branch="False" />
+                <line number="145" hits="0" branch="False" />
+                <line number="147" hits="0" branch="False" />
+                <line number="148" hits="0" branch="False" />
+                <line number="150" hits="0" branch="False" />
+                <line number="151" hits="0" branch="False" />
+                <line number="153" hits="0" branch="False" />
+                <line number="155" hits="0" branch="False" />
+                <line number="156" hits="0" branch="False" />
+                <line number="157" hits="0" branch="False" />
+                <line number="158" hits="0" branch="False" />
+                <line number="159" hits="0" branch="False" />
+                <line number="160" hits="0" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="131" hits="0" branch="False" />
+            <line number="132" hits="0" branch="True" condition-coverage="0% (0/2)">
+              <conditions>
+                <condition number="78" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="133" hits="0" branch="False" />
+            <line number="135" hits="0" branch="False" />
+            <line number="136" hits="0" branch="False" />
+            <line number="137" hits="0" branch="False" />
+            <line number="139" hits="0" branch="True" condition-coverage="0% (0/4)">
+              <conditions>
+                <condition number="446" type="jump" coverage="0%" />
+                <condition number="466" type="jump" coverage="0%" />
+              </conditions>
+            </line>
+            <line number="140" hits="0" branch="False" />
+            <line number="141" hits="0" branch="False" />
+            <line number="142" hits="0" branch="False" />
+            <line number="145" hits="0" branch="False" />
+            <line number="147" hits="0" branch="False" />
+            <line number="148" hits="0" branch="False" />
+            <line number="150" hits="0" branch="False" />
+            <line number="151" hits="0" branch="False" />
+            <line number="153" hits="0" branch="False" />
+            <line number="155" hits="0" branch="False" />
+            <line number="156" hits="0" branch="False" />
+            <line number="157" hits="0" branch="False" />
+            <line number="158" hits="0" branch="False" />
+            <line number="159" hits="0" branch="False" />
+            <line number="160" hits="0" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Controllers.AuthController/&lt;Register&gt;d__5" filename="Controllers\AuthController.cs" line-rate="0.7058" branch-rate="0.5" complexity="4">
+          <methods>
+            <method name="MoveNext" signature="()" line-rate="0.7058" branch-rate="0.5" complexity="4">
+              <lines>
+                <line number="37" hits="4" branch="False" />
+                <line number="38" hits="4" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="50" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="39" hits="0" branch="False" />
+                <line number="41" hits="4" branch="True" condition-coverage="50% (1/2)">
+                  <conditions>
+                    <condition number="225" type="jump" coverage="50%" />
+                  </conditions>
+                </line>
+                <line number="42" hits="0" branch="False" />
+                <line number="43" hits="0" branch="False" />
+                <line number="44" hits="0" branch="False" />
+                <line number="45" hits="0" branch="False" />
+                <line number="48" hits="4" branch="False" />
+                <line number="50" hits="4" branch="False" />
+                <line number="52" hits="4" branch="False" />
+                <line number="53" hits="4" branch="False" />
+                <line number="54" hits="4" branch="False" />
+                <line number="55" hits="4" branch="False" />
+                <line number="56" hits="4" branch="False" />
+                <line number="57" hits="4" branch="False" />
+                <line number="58" hits="4" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="37" hits="4" branch="False" />
+            <line number="38" hits="4" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="50" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="39" hits="0" branch="False" />
+            <line number="41" hits="4" branch="True" condition-coverage="50% (1/2)">
+              <conditions>
+                <condition number="225" type="jump" coverage="50%" />
+              </conditions>
+            </line>
+            <line number="42" hits="0" branch="False" />
+            <line number="43" hits="0" branch="False" />
+            <line number="44" hits="0" branch="False" />
+            <line number="45" hits="0" branch="False" />
+            <line number="48" hits="4" branch="False" />
+            <line number="50" hits="4" branch="False" />
+            <line number="52" hits="4" branch="False" />
+            <line number="53" hits="4" branch="False" />
+            <line number="54" hits="4" branch="False" />
+            <line number="55" hits="4" branch="False" />
+            <line number="56" hits="4" branch="False" />
+            <line number="57" hits="4" branch="False" />
+            <line number="58" hits="4" branch="False" />
+          </lines>
+        </class>
+        <class name="AuthApi.Configuration.JwtSettings" filename="Configuration\JwtSettings.cs" line-rate="1" branch-rate="1" complexity="4">
+          <methods>
+            <method name="get_SecretKey" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="5" hits="6" branch="False" />
+              </lines>
+            </method>
+            <method name="get_ExpiryMinutes" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="6" hits="2" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Issuer" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="7" hits="6" branch="False" />
+              </lines>
+            </method>
+            <method name="get_Audience" signature="()" line-rate="1" branch-rate="1" complexity="1">
+              <lines>
+                <line number="8" hits="6" branch="False" />
+              </lines>
+            </method>
+          </methods>
+          <lines>
+            <line number="5" hits="6" branch="False" />
+            <line number="6" hits="2" branch="False" />
+            <line number="7" hits="6" branch="False" />
+            <line number="8" hits="6" branch="False" />
+          </lines>
+        </class>
+      </classes>
+    </package>
+  </packages>
+</coverage>
