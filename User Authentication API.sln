@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApi", "AuthApi\AuthApi.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthApi.Tests", "AuthApi.Tests\AuthApi.Tests.csproj", "{C2D570C5-5044-453E-A911-928B28094A44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AuthMvc", "AuthMvc\AuthMvc.csproj", "{F3C79F9F-8DA7-4FE8-B5B6-43105C093257}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +43,18 @@ Global
 		{C2D570C5-5044-453E-A911-928B28094A44}.Release|x64.Build.0 = Release|Any CPU
 		{C2D570C5-5044-453E-A911-928B28094A44}.Release|x86.ActiveCfg = Release|Any CPU
 		{C2D570C5-5044-453E-A911-928B28094A44}.Release|x86.Build.0 = Release|Any CPU
+		{F3C79F9F-8DA7-4FE8-B5B6-43105C093257}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C79F9F-8DA7-4FE8-B5B6-43105C093257}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C79F9F-8DA7-4FE8-B5B6-43105C093257}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F3C79F9F-8DA7-4FE8-B5B6-43105C093257}.Debug|x64.Build.0 = Debug|Any CPU
+		{F3C79F9F-8DA7-4FE8-B5B6-43105C093257}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F3C79F9F-8DA7-4FE8-B5B6-43105C093257}.Debug|x86.Build.0 = Debug|Any CPU
+		{F3C79F9F-8DA7-4FE8-B5B6-43105C093257}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C79F9F-8DA7-4FE8-B5B6-43105C093257}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3C79F9F-8DA7-4FE8-B5B6-43105C093257}.Release|x64.ActiveCfg = Release|Any CPU
+		{F3C79F9F-8DA7-4FE8-B5B6-43105C093257}.Release|x64.Build.0 = Release|Any CPU
+		{F3C79F9F-8DA7-4FE8-B5B6-43105C093257}.Release|x86.ActiveCfg = Release|Any CPU
+		{F3C79F9F-8DA7-4FE8-B5B6-43105C093257}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

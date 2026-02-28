@@ -1,0 +1,11 @@
+<h2>Dashboard</h2>
+
+<p>Welcome @ViewBag.Username</p>
+<p>Role: @ViewBag.Role</p>
+
+@if (ViewBag.Role == "Admin")
+{
+    <p><strong>You have Admin access.</strong></p>
+}
+
+<a asp-action="Logout">Logout</a>

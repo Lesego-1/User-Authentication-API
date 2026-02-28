@@ -1,6 +1,6 @@
-# Auth API – JWT Authentication with Refresh Tokens and Role-Based Authorization
+# Auth API – JWT Authentication with Refresh Tokens, Role-Based Authorization, and MVC UI
 
-A secure backend API built with **.NET 9 / ASP.NET Core**, providing user authentication, JWT-based authorization, refresh tokens, and role-based access control. Fully testable via **Swagger UI**.
+A secure backend API built with **.NET 9 / ASP.NET Core**, providing user authentication, JWT-based authorization, refresh tokens, and role-based access control. A **MVC UI** has been added for interactive login, registration, and dashboard views, while the API remains fully testable via **Swagger UI**.
 
 ---
 
@@ -10,7 +10,8 @@ A secure backend API built with **.NET 9 / ASP.NET Core**, providing user authen
 * **JWT authentication** for secure access.
 * **Refresh token support** for long-term sessions.
 * **Role-based authorization** (Admin and User roles).
-* **Swagger/OpenAPI documentation** for interactive endpoint testing.
+* **MVC UI** for login, registration, and dashboard.
+* **Swagger/OpenAPI documentation** for interactive API testing.
 * **CORS enabled** for external tools or frontend integration.
 
 ---
@@ -20,6 +21,7 @@ A secure backend API built with **.NET 9 / ASP.NET Core**, providing user authen
 * **.NET 9 / ASP.NET Core**
 * **Entity Framework Core** (SQL Server)
 * **JWT Authentication**
+* **MVC**
 * **Swagger / Swashbuckle**
 * **C#**
 * **SQL Server**
@@ -191,6 +193,20 @@ Bearer <JWT_TOKEN>
 ---
 
 ### 7️⃣ Example Screenshots
+
+**MVC Login:**
+
+![MVC Login](https://github.com/Lesego-1/User-Authentication-API/blob/main/landing.png?raw=true)
+
+**MVC Register:**
+
+![MVC Register](https://github.com/Lesego-1/User-Authentication-API/blob/main/login.png?raw=true)
+
+**MVC Dashboard:**
+
+![MVC Dashboard](https://github.com/Lesego-1/User-Authentication-API/blob/main/users.png?raw=true)
+
+---
 
 **Swagger Landing Page:**
 

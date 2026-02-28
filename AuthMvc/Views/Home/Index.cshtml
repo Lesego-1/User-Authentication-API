@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<h2>Welcome, @ViewBag.Username!</h2>
+
+<p>This is your dashboard. You are successfully logged in.</p>
+
+<form asp-controller="Account" asp-action="Logout" method="post">
+    <button type="submit" class="btn btn-danger">Logout</button>
+</form>
