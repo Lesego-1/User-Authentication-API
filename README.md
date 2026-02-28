@@ -196,15 +196,15 @@ Bearer <JWT_TOKEN>
 
 **MVC Login:**
 
-![MVC Login](https://github.com/Lesego-1/User-Authentication-API/blob/main/landing.png?raw=true)
+![MVC Login](https://github.com/Lesego-1/User-Authentication-API/blob/main/mvcLogin.png?raw=true)
 
 **MVC Register:**
 
-![MVC Register](https://github.com/Lesego-1/User-Authentication-API/blob/main/login.png?raw=true)
+![MVC Register](https://github.com/Lesego-1/User-Authentication-API/blob/main/mvcRegister.png?raw=true)
 
 **MVC Dashboard:**
 
-![MVC Dashboard](https://github.com/Lesego-1/User-Authentication-API/blob/main/users.png?raw=true)
+![MVC Dashboard](https://github.com/Lesego-1/User-Authentication-API/blob/main/mvcDashboard.png?raw=true)
 
 ---
 
